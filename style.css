@@ -8,8 +8,8 @@ html {
     }
 
 .container {
-    height: 300vh;
-    max-width: 3000px;
+    height: 320vh;
+    max-width: 3200px;
     margin: 0 auto;
     background-attachment: fixed;
     background-image: url(bg.jpg);
