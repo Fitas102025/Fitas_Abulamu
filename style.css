@@ -8,8 +8,8 @@ html {
     }
 
 .container {
-    height: 300vh;
-    max-width: 3000px;
+    height: 350vh;
+    max-width: 3500px;
     margin: 0 auto;
     background-attachment: fixed;
     background-image: url(bg.jpg);
@@ -56,7 +56,7 @@ html {
     border: 3px solid #222;
     background-color: white;
     border-radius: 20px;
-    margin: 5px 120px;
+    margin: 5px 70px;
     padding: 10px;
     text-transform: uppercase;
     font-weight: 200;
