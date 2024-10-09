@@ -41,6 +41,23 @@ html {
     text-align: center;
 }
 
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.info>p {
+    font-size: 1cm;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: black;
+    text-transform: capitalize;
+    text-align: center;
+}
+
 .link {
     display: flex;
     justify-content: center;
