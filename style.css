@@ -48,7 +48,7 @@ html {
     padding: 5px;
 }
 
-.info>a {
+.info>p {
     text-decoration: none;
     color: #222;
     font-size: 24px;
