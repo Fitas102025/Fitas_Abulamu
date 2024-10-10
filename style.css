@@ -62,6 +62,11 @@ html {
     font-weight: 200;
 }
 
+.info>a:hover {
+    background-color: rgb(54, 52, 52);
+    color: aliceblue;
+}
+
 .link {
     display: flex;
     justify-content: center;
